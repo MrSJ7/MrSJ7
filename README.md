@@ -32,3 +32,8 @@ I'm a developer and builder, working at the intersection of **AI, full-stack sys
     <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,html,css,vite,git,github,postman,vscode" />
   </a>
 </p>
+
+### GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrSJ7&show_icons=true&theme=github_dark&hide_border=true&hide=issues,stars" alt="GitHub Stats" />
+</p>
