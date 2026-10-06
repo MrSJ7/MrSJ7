@@ -25,3 +25,10 @@ I'm a developer and builder, working at the intersection of **AI, full-stack sys
 - Built **[Budget Tracker](https://github.com/MrSJ7/Budget-Tracker)** & **[Application Tracker](https://github.com/MrSJ7/Application-tracker)**: Productivity and workflow tools featuring reactive state architectures, analytics charts with Recharts, and localStorage persistence.
 
 - Actively sharpening DSA and problem-solving skills on **[LeetCode](https://leetcode.com/u/YU2rQCvOcE/)** and exploring open-source projects.
+
+- ### Languages and Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,html,css,vite,git,github,postman,vscode" />
+  </a>
+</p>
