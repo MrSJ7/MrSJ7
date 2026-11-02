@@ -16,7 +16,7 @@ I'm a developer and builder, working at the intersection of **AI, full-stack sys
 
 ### My Journey So Far
 
-- Built **[Relay](https://relay-website-theta.vercel.app)**: A lightweight communication app for friends and family, with private spaces, real-time messaging, voice and video calls, and a native Mac client.
+- Built **[Relay](https://relaynest.vercel.app/welcome/)**: A lightweight communication app for friends and family, with private spaces, real-time messaging, voice and video calls, and a native Mac client.
 
 - Built **[CodeEagle](https://github.com/MrSJ7/codeeagle)**: An AI-assisted, context-aware code review and automated remediation system designed to catch edge cases and streamline PR reviews.
 
